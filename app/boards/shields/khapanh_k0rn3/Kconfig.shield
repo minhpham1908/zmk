@@ -1,0 +1,5 @@
+config SHIELD_KHAPANH_K0RN3_LEFT
+    def_bool $(shields_list_contains,khapanh_k0rn3_left)
+    
+config SHIELD_KHAPANH_K0RN3_RIGHT
+    def_bool $(shields_list_contains,khapanh_k0rn3_right)

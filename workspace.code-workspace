@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.overlay": "dts",
+			"*.keymap": "zmk-keymap",
+			"bt.h": "c",
+			"*.dtsi": "c"
+		}
+	}
+}
